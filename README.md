@@ -1,5 +1,5 @@
 ## SSFNLogin
-## 使用SSFN授权文件绕过Steam令牌
+## 浣跨敤SSFN鎺堟潈鏂囦欢缁曡繃Steam浠ょ墝
 
 TODO:
 [] GUI

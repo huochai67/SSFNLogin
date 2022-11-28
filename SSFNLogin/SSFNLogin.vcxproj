@@ -136,9 +136,6 @@
     <ClCompile Include="windows\utils_windows.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="ssfnlogin.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
